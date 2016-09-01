@@ -1,0 +1,9 @@
+c:\users\kingdomkaz\documents\visual studio 2013\Projects\Sorts\Sorts\bin\Debug\Sorts.exe.config
+c:\users\kingdomkaz\documents\visual studio 2013\Projects\Sorts\Sorts\bin\Debug\Sorts.exe
+c:\users\kingdomkaz\documents\visual studio 2013\Projects\Sorts\Sorts\bin\Debug\Sorts.pdb
+c:\users\kingdomkaz\documents\visual studio 2013\Projects\Sorts\Sorts\obj\Debug\Sorts.csprojResolveAssemblyReference.cache
+c:\users\kingdomkaz\documents\visual studio 2013\Projects\Sorts\Sorts\obj\Debug\Sorts.Form1.resources
+c:\users\kingdomkaz\documents\visual studio 2013\Projects\Sorts\Sorts\obj\Debug\Sorts.Properties.Resources.resources
+c:\users\kingdomkaz\documents\visual studio 2013\Projects\Sorts\Sorts\obj\Debug\Sorts.csproj.GenerateResource.Cache
+c:\users\kingdomkaz\documents\visual studio 2013\Projects\Sorts\Sorts\obj\Debug\Sorts.exe
+c:\users\kingdomkaz\documents\visual studio 2013\Projects\Sorts\Sorts\obj\Debug\Sorts.pdb

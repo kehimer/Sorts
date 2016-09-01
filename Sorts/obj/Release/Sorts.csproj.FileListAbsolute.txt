@@ -1,0 +1,13 @@
+C:\Users\kingdomkaz\documents\visual studio 2013\Projects\Sorts\Sorts\bin\Release\Sorts.exe.config
+C:\Users\kingdomkaz\documents\visual studio 2013\Projects\Sorts\Sorts\bin\Release\Sorts.exe
+C:\Users\kingdomkaz\documents\visual studio 2013\Projects\Sorts\Sorts\bin\Release\Sorts.pdb
+C:\Users\kingdomkaz\documents\visual studio 2013\Projects\Sorts\Sorts\obj\Release\Sorts.Form1.resources
+C:\Users\kingdomkaz\documents\visual studio 2013\Projects\Sorts\Sorts\obj\Release\Sorts.Properties.Resources.resources
+C:\Users\kingdomkaz\documents\visual studio 2013\Projects\Sorts\Sorts\obj\Release\Sorts.csproj.GenerateResource.Cache
+C:\Users\kingdomkaz\documents\visual studio 2013\Projects\Sorts\Sorts\obj\Release\Sorts.exe
+C:\Users\kingdomkaz\documents\visual studio 2013\Projects\Sorts\Sorts\obj\Release\Sorts.pdb
+C:\Users\kingdomkaz\documents\visual studio 2013\Projects\Sorts\Sorts\bin\Release\Sorts.exe.manifest
+C:\Users\kingdomkaz\documents\visual studio 2013\Projects\Sorts\Sorts\bin\Release\Sorts.application
+C:\Users\kingdomkaz\documents\visual studio 2013\Projects\Sorts\Sorts\obj\Release\Sorts.exe.manifest
+C:\Users\kingdomkaz\documents\visual studio 2013\Projects\Sorts\Sorts\obj\Release\Sorts.application
+C:\Users\kingdomkaz\documents\visual studio 2013\Projects\Sorts\Sorts\obj\Release\Sorts.csprojResolveAssemblyReference.cache
